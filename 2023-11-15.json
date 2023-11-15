@@ -1,0 +1,26 @@
+{
+  "name": "Chester Briggs",
+  "age": 18,
+  "address": {
+    "street": "Biri View",
+    "city": "Femahce",
+    "state": "NJ",
+    "zip": "82047"
+  },
+  "contact": {
+    "phone": "(755) 311-4713",
+    "servicePhone": "800361127"
+  },
+  "birthday": "1996-08-01T01:18:16.557Z",
+  "ip": "203.181.143.75",
+  "foo": "bar",
+  "profile": {
+    "about": "Umamat pucvoc wut etotuheh naha ekiekohud revepzi ebi ri ow mu vaw vap sar wupsuwhu jizuc temud. Ezwag sev kovi luewsa ten av jokjonhuh ca eji rocparah pultorvup wim fotepto nehopa mit besmub doku elwawgo. Rutkav gajwuhada afute agi jev ihunoga lulmutam mij coiz zurdif nij arihi ug.",
+    "bio": "Zele mezedbon nilav sa jisuhi tu pied lifhura kehama itbav mi kemimem visekut irfol demesci nisgi lunu citlugem. Hed zijitta po lebelidof lezsijli ubwaicu mo lusoaka agpavhe ungegvaz afahismod ibkap opo labkap ja doho. Mebci vagvow wotogoru teffefebi obe du uruju heiki otoisese ru daseked vipifene ved otbogana guufu. Getuh fewha nawna cosagogo lagoste koip umimazo ebi buedhol ajelasoc emoekivej epnifiz deeg. Ilafezfu ivura pip ku bin tilgiztam sipibupe did ini anekil rijup seake gohew fa. Ko bokughih nam ta vum pamubciw capfalep venaba lo cisutur elejim hinud joagir."
+  },
+  "apiKey": "d30bd726c7201458bdb6fa6c196130fba053970c0a016c59f6c86038e2c8ed70",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
