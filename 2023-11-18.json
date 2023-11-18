@@ -1,0 +1,26 @@
+{
+  "name": "James Kelley",
+  "age": 38,
+  "address": {
+    "street": "Cuiwa Boulevard",
+    "city": "Naejiki",
+    "state": "IN",
+    "zip": "63292"
+  },
+  "contact": {
+    "phone": "(852) 272-6645",
+    "servicePhone": "800166845"
+  },
+  "birthday": "2004-12-06T19:05:36.331Z",
+  "ip": "112.69.52.147",
+  "foo": "bar",
+  "profile": {
+    "about": "Lehvoito dozuhze jom bi pum fuhif reec duh aso ganzepac he ci. God ujcabtu hecbinu curpino ujto joglidowi nemfo aguspo doenlud adjep lut we fadmobvej cisvace bir. Bipihki biregkeb mijdop tik ge bezo hujilgo ma zegcetic azomomvum kuhi lakfa ri.",
+    "bio": "Hala sisuka fes ol nicso kazojel mijhimme on iz ekete ud cehajeca kinvodip sev. Reg sugreh bohij hisod karupfo gihew si hu pesig leezi cuwmaw tonaz donpa. Saijhus vi vebow ah weakiel gevuznat giigi zibcejem ziseh licium biczi kuzgo famenlag pebmepogi. Po bigcojte casasta amgas dottat uczetul sire rebe ci daje ipajemvo do curnaaki geic."
+  },
+  "apiKey": "c9aa3fb50e38192a993953719d3575a9cbe01eb6e4f66265333ed79f91281030",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
