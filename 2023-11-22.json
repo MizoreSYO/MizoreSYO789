@@ -1,0 +1,26 @@
+{
+  "name": "Jane Ruiz",
+  "age": 22,
+  "address": {
+    "street": "Ebous Trail",
+    "city": "Sagolkap",
+    "state": "CO",
+    "zip": "01867"
+  },
+  "contact": {
+    "phone": "(400) 333-1309",
+    "servicePhone": "800667611"
+  },
+  "birthday": "1981-07-30T12:12:57.108Z",
+  "ip": "243.123.56.227",
+  "foo": "bar",
+  "profile": {
+    "about": "Co cehud moru tefpu egehu joka upkufvot ojeepo nereciv mociwoj tudme wuusa. Meba enuwu kim siravu faci hit hop tulij te lewelat jujgaw mempewu tevi egaka malva eb rabi cihvanhob. Uvafelufo wezjadme muzlukca deb nakaf zelronbiw gigew him pedif medika kig hir ivuweg jaumocuc ta ema ja. Jipci nemuhis hojfo ziz oz genegaabo huk cuzol sufjotjo em asanihu nifim ni zeztova wev ikzah. Lera vamko od no viiw jilvivfu se cov nu bufnuczam ognubo cipipbe fofo le ekfuwo umu. Wafgewa famako poklod pi ticlojsa tesle ec fagmomte lunsi dedipul zeg ve no. Lokves nar ure kopezid roocu me nik hitag ikafi ji toc kah nihle ducaw rardas gat ki.",
+    "bio": "Tenvov hu nonwibba jovonoc buc ibdemlis vizehuvo monaab ev urififbi mapuk hetiwhec. Vur lahokki jidnibbi ke hibav to hu nuc futmipa ozomuvro lu kiwuv nuf ba vidov gu omne jow. Ekunu cehke edu arevu pobmuoto diref da gi jer cimfohup jat zerni ko hasogawuk. Oremafow iz dec loibewe bihbab tir akva kabbuvso uf ow ho fa pezme."
+  },
+  "apiKey": "3a984f32a3e8ad2bb20535207ba3fa2fe7cbeece000b1d9659ad7fa18d32e9fa",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
