@@ -1,0 +1,26 @@
+{
+  "name": "Marie Potter",
+  "age": 23,
+  "address": {
+    "street": "Binike Place",
+    "city": "Tuosfol",
+    "state": "OH",
+    "zip": "10982"
+  },
+  "contact": {
+    "phone": "(764) 607-8640",
+    "servicePhone": "800143388"
+  },
+  "birthday": "1989-05-20T23:04:09.963Z",
+  "ip": "247.199.252.205",
+  "foo": "bar",
+  "profile": {
+    "about": "Luc ufe cemjobe ruc pod umuh omoicgim egeta buw rarede nuw ib vumfo. Ula cuhuulu hijif ma ihmi lu ivzidil nudeve pidosicu gepganrog aldef lahu gahze feinacor vo ata ki. Guz ojmaltif zekeope aziki en eva ha uhika lulgigseh cuv ki iktas tesur ejni.",
+    "bio": "Ne bup ra gojjeg dehraluz ikegnil wez ajofevez fusitiv denow sasbo map joovu vetle ze sunomle. Cead masmolwas govelsam pujabom selufran hi rawmonca mum morce nubevvir jef ubidacka dutves pepikho. Bet linib cipbih wiho ges ce resneviw rebu lowik ojdeta wutewuz orvar cesec. Rat ur nufwug fol gajoci vom ci mes udege saezeje micnafoj isofuvof paztipan rac le isahimmi hu. Julerdup zurzo sekir awooc kovfom zezvuf nuved ve ta wel laig vemi. Enlup lickik con wa wa podlu jolcawagi sulud nubda siuganug hod umewo disusibo baksam sotzi orwit fivor. Wusliuji jukavpi fatour so las nup rus ce zohog wib zionu ropureik ibefikuf litro di avavogufa wuzko kaset."
+  },
+  "apiKey": "40b739c9535016df60b84f572d38d328264b186e9f30a86cb612a591348044bf",
+  "currency": {
+    "code": "LAK",
+    "name": "Laos Kip"
+  }
+}
