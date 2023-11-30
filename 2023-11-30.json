@@ -1,0 +1,26 @@
+{
+  "name": "Vincent Martin",
+  "age": 45,
+  "address": {
+    "street": "Lanko Drive",
+    "city": "Fenakiwo",
+    "state": "IA",
+    "zip": "70869"
+  },
+  "contact": {
+    "phone": "(616) 700-5199",
+    "servicePhone": "800769265"
+  },
+  "birthday": "1964-02-24T00:35:05.375Z",
+  "ip": "191.96.226.174",
+  "foo": "bar",
+  "profile": {
+    "about": "Egilu ilibu umeege zo fufefuh hoet reten nas egohultuz sagdudoma ket topi ceksuz orhegop tosaw guegwuw tahkokwor. Enevnel as peghe koluwuh macgep jesvul gabjiova na hewtedrem tu kaevime varal teskujhi ro ca cala beninguc. Hel bos dem ij su admokras bowleko fiatidi murujagi tivbon owimori bawomup nasbulci virupo enota.",
+    "bio": "Mepefeca up ke cafu ezojuhi ca sinham fuctuv dervigjib muh mekop coijaoz gihso il can raibe bukdugfa ovebonif. Guddaki rewibew vuki lelfa romaf me mo paj riimo rukiari loc kuipo cemse metewhav dugfewhiw. Vapjariw zo zak vuhazgak afmuvnez zarutla ba wezokzac gataho it zi tuihse tetoh gosjagged masugac izafuka di."
+  },
+  "apiKey": "197f76c1a7b8299b29cb5ca0b0b218af2e4fb7686d77d647673d42e517226fb9",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
