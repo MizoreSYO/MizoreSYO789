@@ -1,0 +1,26 @@
+{
+  "name": "Jose Brewer",
+  "age": 19,
+  "address": {
+    "street": "Otuhe Junction",
+    "city": "Hazovoda",
+    "state": "DC",
+    "zip": "05093"
+  },
+  "contact": {
+    "phone": "(202) 490-4429",
+    "servicePhone": "800558664"
+  },
+  "birthday": "1962-06-05T18:06:48.690Z",
+  "ip": "20.61.146.123",
+  "foo": "bar",
+  "profile": {
+    "about": "Abhigub je epuhub mozmelni su ow joh lugvojtu cizweoje oguta enhi kipfed amdi tovgusi wibtafi jebcoj nul akba. Oge vatilhup tef dumipi rotutelu ufjo kafo hu ul lesnoud samluni je sulak gelhi ode ambu. Rizdupze tikleil wuilbim atfi gikkof ha var iv cunpapgo ju kos fenja ji barug uwirep na las casriv.",
+    "bio": "Bo ba mekvevvus fe desunti manifgu forjaw dumunzi boisaju co osale wirekmer wenazi mugidig. Ze ne kakaca val diewutik fos hodezu diwjehra wogno zipohi zejji jelbit pokupci hag detubwor. Waluv videw ema umebodow lubkoifo alasew vuaj daczimik magkomnu kudpirig odarak take ek opu huhaaj ivelonfet odakecri kavvo."
+  },
+  "apiKey": "4d77f9ac501ba6a8e34bb36643a60de7ef7c79147dd15320648ed6af62c004cb",
+  "currency": {
+    "code": "IRR",
+    "name": "Iran Rial"
+  }
+}
