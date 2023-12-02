@@ -1,0 +1,26 @@
+{
+  "name": "James Brown",
+  "age": 21,
+  "address": {
+    "street": "Ikiter Mill",
+    "city": "Kutujcu",
+    "state": "OK",
+    "zip": "25546"
+  },
+  "contact": {
+    "phone": "(837) 925-4914",
+    "servicePhone": "800871543"
+  },
+  "birthday": "1977-05-31T05:08:40.773Z",
+  "ip": "137.96.210.36",
+  "foo": "bar",
+  "profile": {
+    "about": "Ke kah tih nidfob fe af elole tiv suvraniv lu kuvu uwatip ifrilad uje jicopnek we. Ipe kamwaz og ezwovimi natetu fohbar lafcod nusgabod ocimi sotel pif ef sas. Lendapo reg verepeh ifuju weozu waz cuk oti padeh evona kihlof voplit ewenomdum hawe go bu mag. Iwi uwu sirawa dovis fusanoh bicso rujuv voimu se dozra vu epi.",
+    "bio": "Sow edmo rapu buzwesvuj wopvizjoz kossufmus rewu hofro figtutol vebiv few olhuso. Lisdiobi we bigjefto nunbungon buomju cupempaz biv tocazgig hacelror jaze pukoma rufagi ukziscol be. Lubip tevkiljer geg guttupuz ebu wuzram pet avbopmed midfat dareziuco mowpa hoh genicgug has ku susoc arofij ter. Zufuze mibge medoj zugnipef jaomutil fadsug jemu okiac rumwu em vapukah ruutewun veviga raku juchoepe. Imo feusewav perak pap ofuvuvtas he pedgirila ewedujob ij bilro laizo vi guoc simtet sotusetoz hi mesomlo. Lulkakje rot zuinipo ti ra nol zutwo zundew nijmunvo majve asode herbupoz nablib."
+  },
+  "apiKey": "f6bf77d66d01cc4c80659f1579382d84fb4539e63b41de510ab8f65df358fb8f",
+  "currency": {
+    "code": "FJD",
+    "name": "Fiji Dollar"
+  }
+}
