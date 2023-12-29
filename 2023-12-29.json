@@ -1,0 +1,26 @@
+{
+  "name": "Mina Fields",
+  "age": 52,
+  "address": {
+    "street": "Roddu Junction",
+    "city": "Irusucin",
+    "state": "PA",
+    "zip": "32213"
+  },
+  "contact": {
+    "phone": "(723) 357-7017",
+    "servicePhone": "800565996"
+  },
+  "birthday": "1969-11-12T19:04:22.335Z",
+  "ip": "31.74.207.50",
+  "foo": "bar",
+  "profile": {
+    "about": "Waldifan revbuducu zu makhimo rozer wubik ribenop cip vooj gohe hivzikiz ukotatu vaw lilelazaj womaite nazevfid jubeuru. We hogil pepbaz robu uguhine homubcic rotsu wohecba ipu zuh debvugoz sorul. Op juimiaka cu gesded omtomu gis gowlagih va pigugusa zisurew pum ut cadat wiid dotiv nuc. Hurib bac orirdu ewiikna fep ru ker cotseta inusi sagennag wekpapa hipiov eccizlij locatiw focekla tajfiwot za methuv. Wef ipo pakohco cincar julzandiz gebubo midwaz jehujgot wehirrit jos unefup fubojpi semseldu ijve. Karted ijhueno pef sob ahair mepij ot obuevbor jadimcok an roshawvuf bud emlingi ru.",
+    "bio": "Lemginco ceuge mapnegep pilno di go li ope tujache defledjad ti ahowa ha. Hileje dimob weel wugi guvri igu jemve sifu kaowa fusbekab vami narogjad. Locbabtas ho vuvekal efi ke ze dekwesav gaige atamok cabe fop jugusa anevip oriaceafo ocook oguem. Gejechi lezo zo con raracce ge wovow ime ganjobod wuicru ako ewifajiz kepjarav orfujme esaowodeb wol maicku. Vab ra raez wubiti eho dupoz huwo arroigi goopubo rogjig su jo cobmamkor ju ra pup wusa. Hi ri ukuta ekitepu co higuc zathumbi fedo pomnadfog wa diha tetbud. Tas ebcite dahrohjiw wiw bibuju sawu zuw omule dubjaktin pested ekvolgi tek gowefir he."
+  },
+  "apiKey": "87b99a6ad92626b1d60b5b79ad9a9377a22e0bf5ab58462cf154491c8369a9c4",
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguay Peso"
+  }
+}
