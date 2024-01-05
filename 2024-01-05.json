@@ -1,0 +1,26 @@
+{
+  "name": "Teresa Wolfe",
+  "age": 28,
+  "address": {
+    "street": "Bephuh Glen",
+    "city": "Juninle",
+    "state": "AR",
+    "zip": "53922"
+  },
+  "contact": {
+    "phone": "(249) 233-4813",
+    "servicePhone": "800467734"
+  },
+  "birthday": "1996-06-01T22:39:23.870Z",
+  "ip": "104.80.93.231",
+  "foo": "bar",
+  "profile": {
+    "about": "Tahif ha zovukol in pucdun watob aro vewho vot culi kil meckidup ginhut nikive zosrodo nudgurwuw newtinowu. Mog sawob bowov vozejo supradij vugohi rododno cako oniweduj rin vucozi muejmu. Eva te ki ebpuso eniream raperboc nifbuivu hulcalwop woidelor ki fe wiwi kisvat bimevohe.",
+    "bio": "Lu baam suz dozev pasespa pir ov leac zu linde vafa zogoceeho. Jofpajwav me pusoczid taffeket osme ule macton suf wihig sihhojhot ri zezrasa. Doge giw afeles gunlesuj idakonvek gevnejof mah gev serko asesne alifu ni zepupo umo kufwacpaj."
+  },
+  "apiKey": "51ec1bd9efa6e415061cc0a2fa55cd571376bb026a73a95786ebc8f5f1cc6647",
+  "currency": {
+    "code": "RON",
+    "name": "Romania New Leu"
+  }
+}
