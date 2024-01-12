@@ -1,0 +1,26 @@
+{
+  "name": "Luis Alexander",
+  "age": 63,
+  "address": {
+    "street": "Kaefo Park",
+    "city": "Lakikho",
+    "state": "MA",
+    "zip": "89689"
+  },
+  "contact": {
+    "phone": "(703) 776-7467",
+    "servicePhone": "800149673"
+  },
+  "birthday": "1967-05-24T16:58:31.112Z",
+  "ip": "73.216.25.46",
+  "foo": "bar",
+  "profile": {
+    "about": "Moocwi el nubzo jevvo ohogo notfemi pac ducusuh vebficfas domo bev kodij gu igtun pavfu gil ugodejlup evi. Fuakiveg wo lal lezet famrug oj cuh jadwalu olhuab da coig fiet pilfeggo lanede wezo. Aweare fehho el momju vicve ibihi unegu ubuwuzhe bukop se ezajepu vebe. Pidjuij guhi mabnof vavcej anegotav bur duak necga afo romu ri nenrafuj gugubrug johasep nahetlev ilede. Ri tunonu kertoonu lurukva falap iwiugva ric fec puzoc hezok kukifucu pum.",
+    "bio": "Uremopcig inoerak ri ciw waddofu volewba esfujo liduc ni hew kippicrik ed. Fa tejokec sun sa keav rezil pappatgog ilezasor sohik dawgas re nipacel dirrozos ehejof geb ujaja betov. Ah rum katuw mufim robzece sooc resud ufi awwonnam jod samef tuvduszu vemij picog iminemog zompaz. Gu keace go murom mi wucapo rig kav wucbowra es berruze le jo zewsecig tussa huz docuzle var."
+  },
+  "apiKey": "ef14999a05e1ae115291b4d5a1bcb1681b8fefa704dc7543fe7af4619c1b9de2",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}
