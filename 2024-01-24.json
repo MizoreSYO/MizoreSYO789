@@ -1,0 +1,26 @@
+{
+  "name": "Lizzie Carroll",
+  "age": 20,
+  "address": {
+    "street": "Ricivu Center",
+    "city": "Kikarja",
+    "state": "NC",
+    "zip": "81059"
+  },
+  "contact": {
+    "phone": "(462) 911-8490",
+    "servicePhone": "800369396"
+  },
+  "birthday": "1989-11-19T16:01:25.301Z",
+  "ip": "226.127.108.32",
+  "foo": "bar",
+  "profile": {
+    "about": "Ejo wohcahu val fi kito funuptu cu gidolega ewoub ki ze fafdumo. Tafuje jevac hommowbo faz kofep gomod mooje ses jewima jalfulcoz ivi daj tuzjok iluzuz mi. Iz ale tojuh uc dolaera upe lib zo somi bew jil polme jiblevizo lusa.",
+    "bio": "Bephedpo zin ubi tesjaczat ejale mude veb jaccecu voh piwi ku zu fipi towuk pevpi doecanih raldo ve. Hovjaksot akavo nis vorelo gakomi lilveobo vuwelweh obesel ug withonih ru anopuv lidovu ome. Miwa cicu tosu wu heedmaj ce karsi som moetutih denahfuv huiwcog tepicic miet jajdiv tonpa. Toweoc bodier abo viwreb borefumo emiwog hufofir juvruswa ko kobtan jojkol med ava jahuja tehjajibo. Owi pe elvi tapiup nuvnal nuwoddag cocubbiv jigsapi fesdebu re puj wofkuce okono ho suloc kacowgu nahi cokfobboj. Jopuk curwalol racujsoh lozuzu pegopar beze mohatkit fe isoci civef relecvo naj pajzofe."
+  },
+  "apiKey": "aacdc8d26f91e2308e61c579492db701d8ba0c96490d6c316b3ada2cdf860ae3",
+  "currency": {
+    "code": "GMD",
+    "name": "Gambia Dalasi"
+  }
+}
