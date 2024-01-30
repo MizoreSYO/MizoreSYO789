@@ -1,0 +1,26 @@
+{
+  "name": "Johnny Peters",
+  "age": 23,
+  "address": {
+    "street": "Tuwpi Point",
+    "city": "Ijedjar",
+    "state": "PA",
+    "zip": "82114"
+  },
+  "contact": {
+    "phone": "(781) 748-6663",
+    "servicePhone": "800578224"
+  },
+  "birthday": "2000-12-12T06:51:11.534Z",
+  "ip": "84.100.133.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Ogadu ovilom toselse si cucojjok uskifle aje awupu puhiok ma dujuwcez gi zokjig irbigrev fu wegumi. Wa lomfejgac ubcadso fel sepbo ube zuknuwcik jauc raowool lelika icarizo cuv. Kizhiji vo buz ju gajgi kap papiit bovraj foamu se rici depi ukgat cabenlu jir.",
+    "bio": "Onifewenu dusac tuvferzuv ro wavcejvuz cuw ag resilu hatdulo so dumtevo jubimu top pohmiv opi lu. Dut kazkiwa ga duz dica kun maklacbi rigfad habi zu ebo duuj wescit. Kecasmi virog woppeda ag lenezan unu sowhe cijhe wip gebanogi biddi isecupa pu penodzo top koka."
+  },
+  "apiKey": "ec4c2a499a39efa9d568174c3a29bff7735247324810d8049944e40a5e227081",
+  "currency": {
+    "code": "IMP",
+    "name": "Isle of Man Pound"
+  }
+}
