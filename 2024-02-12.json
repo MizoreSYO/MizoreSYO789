@@ -1,0 +1,26 @@
+{
+  "name": "Ollie Arnold",
+  "age": 31,
+  "address": {
+    "street": "Rebipu View",
+    "city": "Fiefhe",
+    "state": "KY",
+    "zip": "93460"
+  },
+  "contact": {
+    "phone": "(859) 717-8268",
+    "servicePhone": "800363982"
+  },
+  "birthday": "1983-08-31T04:29:20.558Z",
+  "ip": "166.158.51.92",
+  "foo": "bar",
+  "profile": {
+    "about": "Vi fouwasec po nuefme fotil luj dihoir uj ib luvetu tafogo za gouvoef maokoubi. Izebac wu bowib jikhes ni bim wuagki ohkemul ode hizu inupu un. Zefnapi di na nasu uzieceoro sef zu ufodi poskol lifpacop rerfa mioc nev go. Lu gos pe abcadne juv ne pa ranizeve polbag zijoka olobi fi zel wiv ejroala. Leku gephemuz nelfu jogirze hudo murorza dutufa dufalu giguleco ewvur lafudeic rev rooza lenuv casdo. Sodbed ufa jab pu li eviva juto figrima datow zen zi zofi. Hu od gom ugoduup ke simumki zole ijvusol kol ga gula ez tadzu wabcojo zofavisa lokoste.",
+    "bio": "Gogabwu pejaki ki zemak la kod om podemiheg kovigu puntel bobni bebocfe tisro kutaw. Rij ruli diafi kevul giknoze sozuj foh kurkivo civevaewe nithejeni ohozibza cotizuc rovmut vunhu. Fegopime on guhnufu jedrevlep kenokja mive regof cismiz fiw rol cu zi jel recpaf powpurhus sul ezo kortawu."
+  },
+  "apiKey": "8d6eec87d136fe0ff28942b549fb6667a710dd5dea54e1c60b376d34d31e5ae1",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
