@@ -1,0 +1,26 @@
+{
+  "name": "Joe Stewart",
+  "age": 50,
+  "address": {
+    "street": "Ladpow Pike",
+    "city": "Furulze",
+    "state": "VT",
+    "zip": "65667"
+  },
+  "contact": {
+    "phone": "(365) 513-1008",
+    "servicePhone": "800262696"
+  },
+  "birthday": "1997-05-01T14:04:44.123Z",
+  "ip": "177.46.32.234",
+  "foo": "bar",
+  "profile": {
+    "about": "Pupov as nimi fujzoaku enilul fil lagofibu efo su iv iv ka. Sarzigno dodosi kaz varicen boag gof enu nejof nikfonru zolvorgot legki bafdoge opwuzud pi kob cen. Efzoruh has gaj cu vodasuz tijmu sorewivo za cejeb jalrekomi jomnipvo deceek udegeh raknuv lazodec we fi. Paafe suntir fuplujet ivocodel afo hiofdi mumet nuginu wifowpe etdi sigvonope gemad. Hupwal se tocomi hifbi wafe vujili feh pobic juwu buj agu ragdet sab nut if si dinadijow. Ru mejtemlad cujbimib simwiz waslesu cu liwsebok ezfigce hecuhogez dikac tormi ovorocec.",
+    "bio": "Eczidedu neecu kiv joluz welof uzeda huw nujnegu garo cimlut kuc norib dahama ze zi. Ansuip beukahum fecegde giwifjec zuen mifopenok he lici tek forvak veevnal habzobze dedtu fargogo zovuh. Azanoba mogcumfa gepir ulalehlu os zo ira ecsid buc ekotalve zulawi lodit. Ozkakri rifi rub zaccavje rag fomapo fosuc wu ovim za zid icmioma dogzomtu fobsoljoc."
+  },
+  "apiKey": "9ef3d041ddbcc1699a691546cc2a25b34e01b2e9eb9ff7643b78860aad8adc2d",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
