@@ -1,0 +1,26 @@
+{
+  "name": "Olga Banks",
+  "age": 28,
+  "address": {
+    "street": "Gaduda Grove",
+    "city": "Ohozitjaw",
+    "state": "MO",
+    "zip": "06263"
+  },
+  "contact": {
+    "phone": "(530) 820-8041",
+    "servicePhone": "800289291"
+  },
+  "birthday": "1965-12-22T21:11:16.272Z",
+  "ip": "130.39.139.183",
+  "foo": "bar",
+  "profile": {
+    "about": "Gugrodgo wiva kisujum mokobaud wub epo gen wo ju tubselwe fede dephuop tufo rehi fimruk rignat dohu ufsudo. Hufzo vortikin kifroz ko ev umlesniw vohanle vu jal rinecewu owde sa wumzakbi je emegejul. Zil rehgev pieso mohem iplamla ducidada ru virkan hap ov go arwuc respic ci opi.",
+    "bio": "Ha tejirpis ced lesorar ukarabbam co cuucahe subefo aznolo ocoposi zatomjoz uba ticjen fizavi leb. Vuzten no tobi hehibuze doudino jijpibhoc zo se tutzaz sa sivez jikdo. Zuwisfe zoc veri rogaw hoteceini cariuso ohat ep cot vipicut zewbol ziddanso lugivu riipu. Buvi zupviwpi bizjezil sumiradi muada gilrazne civif pek lib ec tuwid ep tomho votoldas ruhim mazve."
+  },
+  "apiKey": "39c3eab26072cf9e3dbd97f041d219cf5c4940c97673c580a795edf2941c81f2",
+  "currency": {
+    "code": "PLN",
+    "name": "Poland Zloty"
+  }
+}
