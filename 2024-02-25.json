@@ -1,0 +1,26 @@
+{
+  "name": "Miguel Carpenter",
+  "age": 32,
+  "address": {
+    "street": "Nedo Grove",
+    "city": "Netkahet",
+    "state": "LA",
+    "zip": "79593"
+  },
+  "contact": {
+    "phone": "(711) 458-4998",
+    "servicePhone": "800221655"
+  },
+  "birthday": "1992-11-30T12:52:34.550Z",
+  "ip": "179.172.239.172",
+  "foo": "bar",
+  "profile": {
+    "about": "Ric cej bafkuz jozudhil ges guguh ziri neivu neppanzu ozi wukfi hum. Rupzucu buh oc mowi ju vak got jidecgu ifale hi zevapen dus eho puf goz ciwuv ziw tunavsa. Lisirref wa evil mo suosa elewevtiz cah wejfulho sohfomguh ohu wabniw nacezfu pezisulor. Wa bo vecotog jinojja ha di jer garop belasib hi ceameh sikfeap no razhi sa lizwahse. Apiorowom gipektoz su viveze ris ce wagcal hisut ko bod ucbiw cil tum don peme. Pa veset femusik zaji imegu heviare mumo fa ibagerju nuohiheb kobfewome ve pewosu gawafij emuucdu hobi rop.",
+    "bio": "Zucki wunicohu am wiiru zuzwu jagu ufimimag gen gujjen isolare icocapu ga ibugobi ci. Ko tudpog ufeap navi api uzimod ta uho loc nec zu ca bib hohi selomeig ni. Ru divo zetjo bof zamaghun gueg ze wusedbef fen liki runo kola inaru haif guzji wil lipwen fesuf. Efzit ci fez wif tojgi ritjib ijduzi decicnos wa gaer awtot afiutadaj. Jal enudanvuh zu bip jel buncajus puza lenibopi ha tukak sel la saco nuzmif jobzem."
+  },
+  "apiKey": "63c1c90e9ac01ce3ed4287dec87955142f17781b773d1a66b9e96600f54a1d26",
+  "currency": {
+    "code": "SHP",
+    "name": "Saint Helena Pound"
+  }
+}
