@@ -1,0 +1,26 @@
+{
+  "name": "Amelia Franklin",
+  "age": 40,
+  "address": {
+    "street": "Olare Lane",
+    "city": "Ibadoizi",
+    "state": "RI",
+    "zip": "22265"
+  },
+  "contact": {
+    "phone": "(575) 739-9789",
+    "servicePhone": "800598241"
+  },
+  "birthday": "1961-06-27T23:43:40.862Z",
+  "ip": "56.88.62.197",
+  "foo": "bar",
+  "profile": {
+    "about": "Mez vi kitib ficuf ni vo milo fafe si ketu wugludic woot raj wu lo niknolof. Dupvoibe nuhaw gewze ru esucid do pu pu vid dab us fowo. Nacica woho so sevem tebwe fuc tur gun iwtum be eca tetogbe bodlewba sinsugti.",
+    "bio": "Enopo ipivu tilu go pejtela gazisgow ulaejnim rib irje zazjadat ib odoravwic. Pofuzwe pi mipji evaer mi owo omzur kir fo fubtiz darsoj ofu. Ocu nosiw iva ev fewirije zi za pefoaj tu nebvun ogcafo ihviwep degcoar an ezidikuc. No jaijo mokit onotuip mo udigun lef ba zasnoser zu ge ibur ilu nobu ero ejukukbo finecmeb. Nowa mu zeriig ka ge cufpaz vofacuwid buh jigsu fag sozejse mo votso logmu."
+  },
+  "apiKey": "e0c0c2e0904f661147dd515ac8097bcc5c3819d933179ba5fd0baac97d3bcb04",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
