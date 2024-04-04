@@ -1,0 +1,26 @@
+{
+  "name": "Bryan Mann",
+  "age": 63,
+  "address": {
+    "street": "Egaga Street",
+    "city": "Kekubiw",
+    "state": "IA",
+    "zip": "30952"
+  },
+  "contact": {
+    "phone": "(352) 779-5713",
+    "servicePhone": "800999428"
+  },
+  "birthday": "1981-08-29T05:45:47.498Z",
+  "ip": "216.180.196.96",
+  "foo": "bar",
+  "profile": {
+    "about": "Katewo rajuk po hobrab habume mahza ujlum toso zekez es memmak me. Jubalaubo gos opoulota ba sekjogud hobnodnim wos tususta mowvutre vijhavwiz bag cipehpe oz. Roz ajla imo suih ujisen ad alo higoj ke pevuho belokvaj desak hebwain tiz tu daseludi zuwtikvam ireuca. Torkoego rep pigic nijebzec ewo uzo gichol fob ridiwde puafa lalarpis nam iwecok lavlo. Got bi refacew hagcel jotehe nokov pi ifo nehmefud mizup luw teklabeb fop ves saetoroc atico dem. Sob tufji le humom lobuho dugmula aluku cesak boshusu nitaziaru nuco iw. Ru hajmif moda gajuguje higij pe aj bow sote paewmut gatsuvuv forirtu onaluva.",
+    "bio": "Cugiap kefpe kemi wobgoril sa ja ije sittonkar kohzu mod fi bidir asuacci. Omoiduna vag monap majbuvdi oh opnepi sibdo wuve jo hejnek ho vijpo nurezwi to. Za tahiike tihelu busde vo daefbih ki tatlin zagnawdit isiovzo we mafuop avciama viddem dik lak. Cu co fovbogov zuj gojcer gavibu obe ihes uhnelpe ziiri vorza gujoge ak pidwu abajsa teljid hekov."
+  },
+  "apiKey": "b7bbcf8dcd91f048b54d5c4551eea99b54d210ac5ebbe840bbee9040d0d85d22",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
